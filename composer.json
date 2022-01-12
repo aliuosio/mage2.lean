@@ -99,7 +99,9 @@
         "dotmailer/dotmailer-magento2-extension-chat-graph-ql": "*",
         "dotmailer/dotmailer-magento2-extension-graph-ql": "*",
         "dotmailer/dotmailer-magento2-extension-sms": "*",
+        "klarna/module-onsitemessaging": "*",
+        "klarna/module-kp-graph-ql": "*",
         "paypal/module-braintree-graph-ql": "*",
-        "paypal/module-braintree-core": "*"
+        "paypal/module-braintree-core": "*",
     }
 }
