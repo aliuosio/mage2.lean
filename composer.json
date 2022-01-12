@@ -101,7 +101,15 @@
         "dotmailer/dotmailer-magento2-extension-sms": "*",
         "klarna/module-onsitemessaging": "*",
         "klarna/module-kp-graph-ql": "*",
+        "magento/module-dhl": "*",
+        "magento/module-elasticsearch-6": "*",
+        "magento/module-fedex": "*",
+        "magento/module-paypal": "*",
+        "magento/module-paypal-captcha": "*",
+        "magento/module-paypal-graph-ql": "*",
+        "magento/module-ups": "*",
         "paypal/module-braintree-graph-ql": "*",
-        "paypal/module-braintree-core": "*"
+        "paypal/module-braintree-core": "*",
+        "temando/module-shipping-remover": "*"
     }
 }
