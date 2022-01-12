@@ -102,6 +102,6 @@
         "klarna/module-onsitemessaging": "*",
         "klarna/module-kp-graph-ql": "*",
         "paypal/module-braintree-graph-ql": "*",
-        "paypal/module-braintree-core": "*",
+        "paypal/module-braintree-core": "*"
     }
 }
