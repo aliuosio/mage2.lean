@@ -22,9 +22,7 @@
     "require": {
         "magento/composer-dependency-version-audit-plugin": "~0.1",
         "magento/composer-root-update-plugin": "~1.1",
-        "magento/product-community-edition": "2.4.3-p1",
-        "magepal/magento2-gmailsmtpapp": "^2.8",
-        "yireo/magento2-webp2": "^0.11.4"
+        "magento/product-community-edition": "2.4.3-p1"
     },
     "autoload": {
         "exclude-from-classmap": [
